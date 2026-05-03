@@ -1,4 +1,4 @@
-elegram Bot (Node.js)
+Telegram Bot (Node.js)
 
 A simple Telegram bot built using Node.js to explore backend fundamentals, API handling, and event-driven programming.
 
